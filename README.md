@@ -91,16 +91,21 @@ This project aligns with **SDG 8: Decent Work and Economic Growth** and **SDG 9:
 ```bash
      pip install customtkinter Pillow sqlite3
 
-3. **Running the Program:** Launch a code editor with Python support. Navigate to the directory containing `threadworks.py`. Run the `threadworks.py` file.
+3. **Running the Program:**
 
-4. **Login:** Upon opening, you'll see a login screen.  You must register an account to access the system.
+   1. Open a code editor or IDE (Integrated Development Environment) that supports Python.  Examples include VS Code, PyCharm, or Thonny.
+   2. Navigate to the directory where you saved `threadworks.py`.
+   3. Run the `threadworks.py` file by using the appropriate method for your code editor (e.g., pressing the "Run" button or typing `python threadworks.py` in the terminal if your editor supports it).
 
-5. **Main Page:**  The main page provides buttons for navigating to Inventory, Orders, Sales Report, and Invoice pages.  An exit button allows you to close the program.
 
-6. **Inventory Page:**  Add, update, and delete inventory items.
+4. **Login:** A login screen will appear.  If this is your first time using the application, you will need to create a new user account.
 
-7. **Orders Page:** Add and delete order information.
+5. **Main Page:** The main page provides buttons for navigating to different sections of the application: Inventory, Orders, Sales Report, and Invoices.  An "Exit" button is available to close the program.
 
-8. **Sales Report Page:** View a summary of products sold.
+6. **Inventory Page:** Manage your inventory by adding, updating, or deleting items.
 
-9. **Invoice Page:** View generated invoices for each order.
+7. **Orders Page:**  View, add, and delete order information.
+
+8. **Sales Report Page:**  View a summary report of your sales data.
+
+9. **Invoice Page:** Access and view generated invoices for completed orders.
