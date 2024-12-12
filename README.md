@@ -91,12 +91,7 @@ This project aligns with **SDG 8: Decent Work and Economic Growth** and **SDG 9:
 ```bash
      pip install customtkinter Pillow sqlite3
 
-3. **Running the Program:**
-
-   1. Open a code editor or IDE (Integrated Development Environment) that supports Python.  Examples include VS Code, PyCharm, or Thonny.
-   2. Navigate to the directory where you saved `threadworks.py`.
-   3. Run the `threadworks.py` file by using the appropriate method for your code editor (e.g., pressing the "Run" button or typing `python threadworks.py` in the terminal if your editor supports it).
-
+3. **Running the Program:** Open a code editor that supports Python like VS Code, PyCharm, or Thonny. Navigate to the directory where you saved `threadworks.py`. Run the `threadworks.py` file
 
 4. **Login:** A login screen will appear.  If this is your first time using the application, you will need to create a new user account.
 
