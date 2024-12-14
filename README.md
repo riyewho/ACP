@@ -87,8 +87,8 @@ This project aligns with **SDG 8: Decent Work and Economic Growth** and **SDG 9:
 2. **Install Libraries:**
 
    * **Open your terminal or command prompt.**
-   * **Install the required libraries using pip:** 
-```bash
+   * **Install the required libraries using pip:**
+   * 
      pip install customtkinter Pillow sqlite3
 
 3. **Running the Program:** Open a code editor that supports Python like VS Code, PyCharm, or Thonny. Navigate to the directory where you saved `threadworks.py`. Run the `threadworks.py` file
